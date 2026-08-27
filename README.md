@@ -1,13 +1,16 @@
 <div align="center">
 
-# Hi, I'm Atakan Taş 👋
+# Atakan Taş
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Python+%26+Backend+Development;Network+Automation+%26+Cybersecurity;Building+real%2C+testable+projects" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=650&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Python+%26+FastAPI;Network+Automation;Cybersecurity;Building+NetMon" alt="Animated typing introduction" />
 
 <p>
-  <a href="https://tasatakan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-tasatakan.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://tasatakan.netlify.app/"><img src="https://img.shields.io/badge/Live%20Portfolio-tasatakan.netlify.app-0F172A?style=for-the-badge&logo=netlify&logoColor=38BDF8" alt="Live Portfolio" /></a>
+  <a href="https://github.com/AtakanTas-io/portfolio"><img src="https://img.shields.io/badge/Portfolio%20Source-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source" /></a>
   <a href="https://www.linkedin.com/in/atakan-ta%C5%9F-4824362a7/"><img src="https://img.shields.io/badge/LinkedIn-Atakan%20Ta%C5%9F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+**Computer Science Student · Python & FastAPI · Network Automation · Cybersecurity**
 
 </div>
 
@@ -15,14 +18,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** building practical projects around **Python, backend systems, network automation and cybersecurity**.
+I'm a **Computer Science student** focused on building practical, testable software around **Python, backend development, network automation and cybersecurity**.
 
-My main focus is turning classroom knowledge into software that can be tested, inspected and explained. I prefer projects that expose how systems actually behave rather than hiding everything behind a demo.
+I prefer projects that can be inspected, tested and explained clearly. My main project, **NetMon**, reflects that approach by combining network discovery, diagnostics, inventory, operational tooling and security-focused controls with automated testing.
 
-- 🔭 Currently improving **NetMon**, my network discovery, inventory and operations project.
-- 🧪 I care about **automated tests, reproducible behavior and honest technical limits**.
-- 🛡️ Interested in **network management, security engineering and backend development**.
-- 📚 I also maintain algorithm and SQL practice in my **LeetCode-Solutions** repository.
+- 🔭 Building and improving **NetMon**
+- ⚙️ Working with **Python, FastAPI, SQL and network-management protocols**
+- 🧪 Interested in **automated testing, reliability and transparent system behavior**
+- 🛡️ Exploring **network engineering, backend systems and cybersecurity**
+- 📚 Practicing **algorithms and SQL** through LeetCode
 
 ---
 
@@ -124,20 +128,14 @@ Current topics include arrays, strings, hash tables, two pointers, math and data
 
 ---
 
-## 🎯 What I'm Building Toward
-
-I want my GitHub to show progression from **student exercises → testable software → production-minded engineering habits**.
-
-My current priorities are:
+## 🎯 Current Focus
 
 `Network Automation` · `Backend Engineering` · `Cybersecurity` · `Python` · `SQL` · `Testing`
 
 <div align="center">
 
-### Explore my work
+[**NetMon**](https://github.com/AtakanTas-io/NetMon) • [**Live Portfolio**](https://tasatakan.netlify.app/) • [**Portfolio Source**](https://github.com/AtakanTas-io/portfolio) • [**LinkedIn**](https://www.linkedin.com/in/atakan-ta%C5%9F-4824362a7/)
 
-[**NetMon**](https://github.com/AtakanTas-io/NetMon) • [**Portfolio**](https://tasatakan.netlify.app/) • [**LinkedIn**](https://www.linkedin.com/in/atakan-ta%C5%9F-4824362a7/)
-
-<sub>Profile content is intentionally limited to technologies and projects represented in my public repositories.</sub>
+<sub>Profile claims are intentionally limited to technologies and projects represented in my public repositories.</sub>
 
 </div>
